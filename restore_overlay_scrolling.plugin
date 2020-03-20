@@ -1,0 +1,8 @@
+[Plugin]
+Module=restore_overlay_scrolling
+Loader=python3
+IAge=3
+Name=Restore Overlay Scrolling
+Description=Restore overlay scrolling in gedit 3.36
+Authors=John Factotum
+Copyright=Copyright © 2020 John Factotum
