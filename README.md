@@ -1,5 +1,7 @@
 # Restore Overlay Scrolling (gedit plugin)
 
+![Overlay scrollong good](illustration.jpg)
+
 ## Features
 
 * Overlay scrolling was disabled in gedit 3.36
