@@ -6,3 +6,4 @@ Name=Restore Overlay Scrolling
 Description=Restore overlay scrolling in gedit 3.36
 Authors=John Factotum
 Copyright=Copyright © 2020 John Factotum
+Website=https://github.com/johnfactotum/gedit-restore-overlay-scrolling
