@@ -15,6 +15,3 @@ class RestoreOverlayScrollingPlugin(GObject.Object, Gedit.ViewActivatable):
 
     def do_deactivate(self):
         self._set_overlay_scrolling(False)
-
-    def do_update_state(self):
-        pass
